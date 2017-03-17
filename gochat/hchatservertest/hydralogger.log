@@ -1,0 +1,13 @@
+Hydrarooms.go:62: Starting chat room HydraChat
+Hydrahydrachat.go:48: Received request from client 127.0.0.1:38732
+Hydrahydrachat.go:48: Received request from client 127.0.0.1:38734
+Hydraclients.go:24: rommel:fdsf
+Hydraclients.go:24: rommel:你好
+Hydraclients.go:24: rommel:你在干嘛
+Hydrahydrachat.go:48: Received request from client 127.0.0.1:38736
+Hydraclients.go:24: fddf:nihao 
+Hydraclients.go:24: fddf:nisf
+Hydraclients.go:24: teng:SB
+Hydrarooms.go:46: Removing client 
+Hydrarooms.go:46: Removing client 
+Hydrarooms.go:46: Removing client 
